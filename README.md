@@ -15,24 +15,26 @@ The default configuration broadcasts driver positional updates every 1000ms and 
 Usage
 =====
 1. Load the iRacing sim
-2. Once in the session fully (i.e. you can enter the track if you so wished), launch RivalTrackerDemo.exe.
-3. RivalTrackerDemo.exe will start a WebSockets server on localhost:8181.  Once connected to an iRacing client updates will be broadcast every 1000ms.  The broadcast payload is :
+2. Once in the session fully (i.e. you can enter the track if you so wish), launch RivalTrackerDemo.exe.
+3. RivalTrackerDemo.exe will start a WebSockets server on ws://localhost:8181.  Once connected to an iRacing client updates will be broadcast every 1000ms.  The broadcast payload is :
+
 ```javascript
 {
-  "trackId" : 166,
-  "drivers" : {
-    "3":0.274489,
-    "4":0.7379593,
-    "85":0.5478597,
-    "10":0.7321385
-  }
+    "trackId" : 166,
+    "drivers" : {
+        "3":0.274489,
+        "4":0.7379593,    
+        "85":0.5478597,    
+        "10":0.7321385
+    }  
 }
+```
+```
+trackId - the iRacing unique id of the circuit
+drivers - simple object containing car numbers and current lap progress percentage (0-1)
 ```
 
 A proof of concept RivalTracker client is hosted at http://www.samiad.co.uk/rivaltracker.  Visit this webpage after launching RivalTrackerDemo.exe to see the results.
-
-trackId - the iRacing unique id of the circuit
-drivers - simple object containing car numbers and current lap progress percentage (0-1)
 
 Known Issues
 ============
@@ -42,10 +44,13 @@ Known Issues
 Credits
 =======
 David Tucker of iRacing for providing and supporting the iRacing SDK
+
 Scott Przybylski for his work on a C# implementation of the SDK
+
 Jason Staten for his Fleck C# WebSockets server
 
 License
 =======
 Copyright 2013 Sam Hazim
+
 Released under GPLv3
