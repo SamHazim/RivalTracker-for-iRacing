@@ -1,0 +1,7 @@
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\bin\Release\Fleck.dll
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\bin\Release\iRSDKSharp.dll
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\bin\Release\RivalTrackerDemo.exe
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\bin\Release\RivalTrackerDemo.pdb
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\obj\x86\Release\RivalTrackerDemo.exe
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\obj\x86\Release\RivalTrackerDemo.pdb

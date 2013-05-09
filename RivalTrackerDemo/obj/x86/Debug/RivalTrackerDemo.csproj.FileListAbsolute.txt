@@ -1,0 +1,12 @@
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\TrackTrackerDemo\TrackTrackerDemo\bin\Debug\iRSDKSharp.dll
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\TrackTrackerDemo\TrackTrackerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\TrackTrackerDemo\TrackTrackerDemo\obj\x86\Debug\TrackTrackerDemo.exe
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\TrackTrackerDemo\TrackTrackerDemo\obj\x86\Debug\TrackTrackerDemo.pdb
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\TrackTrackerDemo\TrackTrackerDemo\bin\Debug\TrackTrackerDemo.exe
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\TrackTrackerDemo\TrackTrackerDemo\bin\Debug\TrackTrackerDemo.pdb
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\bin\Debug\iRSDKSharp.dll
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\bin\Debug\RivalTrackerDemo.exe
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\bin\Debug\RivalTrackerDemo.pdb
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\obj\x86\Debug\RivalTrackerDemo.exe
+C:\Users\Samiad\Documents\iRacingSDK Dev\my projects\RivalTrackerDemo\RivalTrackerDemo\obj\x86\Debug\RivalTrackerDemo.pdb
