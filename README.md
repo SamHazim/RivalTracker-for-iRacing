@@ -10,7 +10,7 @@ This application opens up the iRacing telemetry SDK by running a WebSockets serv
 
 The C# WebSockets implementation used in this project is [Fleck](https://github.com/statianzo/Fleck).
 
-The default configuration broadcasts driver positional updates every 1000ms and is therefore suited to localhost server & clients.  External clients would be better served by a server broadcasting every 5000ms or greater.  Currently there is no way to change the broadcast frequency without rebuilding the project.
+The default configuration broadcasts driver positional updates every 1000ms and is therefore suited to localhost server & clients.  External clients would be better served by a server broadcasting every 5000ms or greater.  Currently there is no way to change the broadcast frequency without rebuilding the project.  This project is a proof of concept; I hope it spurs some creativity from the wider community!
 
 Usage
 =====
