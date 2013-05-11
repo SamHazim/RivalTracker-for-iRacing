@@ -14,7 +14,7 @@ namespace RivalTrackerDemo
         private static iRacingSDK sdk;
         private static int length, start, end;
         private static TelemData telemData = new TelemData(drivers);
-        private static string callbackCamera = "Chopper";   // camera group to switch to when the client requests it
+        private static string callbackCamera = "TV1";   // camera group to switch to when the client requests it
         static void Main(string[] args)
         {
             sdk = new iRacingSDK();
