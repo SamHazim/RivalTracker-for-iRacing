@@ -40,6 +40,7 @@ Known Issues
 ============
 * Works with iRacing replays, but not all replays will contain positional data for all drivers in a session.  If the iRacing replay doesn't contain the data, no data will be broadcast via WebSockets.
 * If the application is started before iRacing is finished loading there is a chance that the SDK is not ready to send positional updates to the clients.  Should this occur you will need to close down RivalTrackerDemo.exe and relaunch once iRacing has fully loaded.
+* IE8 doesn't support SVG natively.  So no go (without plugins).  IE9 doesn't support WebSockets natively.  So no go there either.  Current suggestions are for Chrome or Safari, Firefox nightly (or any Firefox > 20) until the rest catchup with the new standards.
 
 Credits
 =======
